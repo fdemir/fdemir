@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9l2lcl5aa30o1mwe7fiutij7w&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=9l2lcl5aa30o1mwe7fiutij7w&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9l2lcl5aa30o1mwe7fiutij7w&cover_image=true&theme=compact =240x300)](https://spotify-github-profile.vercel.app/api/view?uid=9l2lcl5aa30o1mwe7fiutij7w&redirect=true)
